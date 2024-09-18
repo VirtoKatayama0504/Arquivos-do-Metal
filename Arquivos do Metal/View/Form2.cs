@@ -31,9 +31,9 @@ namespace Arquivos_do_Metal
         {
 
         }
-        
 
-        
+
+
 
         private void login_Click_1(object sender, EventArgs e)
         {
@@ -57,5 +57,14 @@ namespace Arquivos_do_Metal
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information);
         }
+
+        private void voltar_Click_1(object sender, EventArgs e)
+        {
+            Form1 frmProperty = new Form1();
+            this.Visible = false;
+            frmProperty.ShowDialog();
+        }
+
+
     }
 }

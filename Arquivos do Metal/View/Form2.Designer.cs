@@ -49,6 +49,7 @@
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.voltar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -253,12 +254,25 @@
             this.pictureBox4.TabIndex = 20;
             this.pictureBox4.TabStop = false;
             // 
+            // voltar
+            // 
+            this.voltar.BackColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.voltar.Font = new System.Drawing.Font("Malgun Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.voltar.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.voltar.Location = new System.Drawing.Point(686, 12);
+            this.voltar.Name = "voltar";
+            this.voltar.Size = new System.Drawing.Size(102, 32);
+            this.voltar.TabIndex = 21;
+            this.voltar.Text = "VOLTAR";
+            this.voltar.UseVisualStyleBackColor = false;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.WindowText;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.voltar);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pictureBox3);
@@ -313,5 +327,6 @@
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.Button voltar;
     }
 }

@@ -32,9 +32,11 @@ namespace Arquivos_do_Metal
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information);
 
-                
-                
-                
+             Form3 frmProperty = new Form3();
+             this.Visible = false;
+             frmProperty.ShowDialog();
+
+
         }
 
         private void label3_Click(object sender, EventArgs e)

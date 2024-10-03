@@ -36,65 +36,65 @@
             this.label2 = new System.Windows.Forms.Label();
             this.pais = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
+            this.botaopesquisa = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.sidsidsidsi = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.label52 = new System.Windows.Forms.Label();
-            this.label51 = new System.Windows.Forms.Label();
-            this.label50 = new System.Windows.Forms.Label();
-            this.label49 = new System.Windows.Forms.Label();
-            this.label48 = new System.Windows.Forms.Label();
-            this.label47 = new System.Windows.Forms.Label();
-            this.label46 = new System.Windows.Forms.Label();
-            this.label45 = new System.Windows.Forms.Label();
-            this.label44 = new System.Windows.Forms.Label();
-            this.label43 = new System.Windows.Forms.Label();
+            this.ui8i9i = new System.Windows.Forms.Label();
+            this.ii = new System.Windows.Forms.Label();
+            this.de = new System.Windows.Forms.Label();
+            this.vv = new System.Windows.Forms.Label();
+            this.rf = new System.Windows.Forms.Label();
+            this.rr = new System.Windows.Forms.Label();
+            this.fr = new System.Windows.Forms.Label();
+            this.qq = new System.Windows.Forms.Label();
+            this.qa = new System.Windows.Forms.Label();
+            this.aa = new System.Windows.Forms.Label();
             this.DDD = new System.Windows.Forms.Label();
-            this.label39 = new System.Windows.Forms.Label();
-            this.label37 = new System.Windows.Forms.Label();
-            this.label36 = new System.Windows.Forms.Label();
-            this.label35 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
-            this.label33 = new System.Windows.Forms.Label();
-            this.label32 = new System.Windows.Forms.Label();
-            this.label31 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
-            this.label29 = new System.Windows.Forms.Label();
-            this.label28 = new System.Windows.Forms.Label();
-            this.label27 = new System.Windows.Forms.Label();
-            this.label24 = new System.Windows.Forms.Label();
-            this.label25 = new System.Windows.Forms.Label();
-            this.label26 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label19 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
+            this.qqqqqqqqqqqq = new System.Windows.Forms.Label();
+            this.cdcdcdcd = new System.Windows.Forms.Label();
+            this.rtytiyo = new System.Windows.Forms.Label();
+            this.j = new System.Windows.Forms.Label();
+            this.ewytut = new System.Windows.Forms.Label();
+            this.asdertyuio = new System.Windows.Forms.Label();
+            this.fvfvfff = new System.Windows.Forms.Label();
+            this.fvf = new System.Windows.Forms.Label();
+            this.srh = new System.Windows.Forms.Label();
+            this.wrghio = new System.Windows.Forms.Label();
+            this.tytuuoi = new System.Windows.Forms.Label();
+            this.gbbgbgbg = new System.Windows.Forms.Label();
+            this.qwertyu = new System.Windows.Forms.Label();
+            this.fdhhhfh = new System.Windows.Forms.Label();
+            this.uilo = new System.Windows.Forms.Label();
+            this.fjhhjgh = new System.Windows.Forms.Label();
+            this.asdfgh = new System.Windows.Forms.Label();
+            this.bjj = new System.Windows.Forms.Label();
+            this.qte4qwr = new System.Windows.Forms.Label();
+            this.retyrytheh = new System.Windows.Forms.Label();
+            this.rjtmhrhts = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
-            this.label16 = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
+            this.asdfg = new System.Windows.Forms.Label();
+            this.zxcv = new System.Windows.Forms.Label();
+            this.qwertyuj = new System.Windows.Forms.Label();
+            this.qwew2e = new System.Windows.Forms.Label();
+            this.wreree = new System.Windows.Forms.Label();
+            this.wqr = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label42 = new System.Windows.Forms.Label();
-            this.label41 = new System.Windows.Forms.Label();
-            this.label40 = new System.Windows.Forms.Label();
-            this.label38 = new System.Windows.Forms.Label();
-            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
-            this.linkLabel3 = new System.Windows.Forms.LinkLabel();
+            this.ewg = new System.Windows.Forms.Label();
+            this.lawgwg = new System.Windows.Forms.Label();
+            this.hujhu6ub = new System.Windows.Forms.Label();
+            this.lololol = new System.Windows.Forms.Label();
+            this.plplpl = new System.Windows.Forms.Label();
+            this.hfghhfh = new System.Windows.Forms.Label();
+            this.rrrrrrrrrrrr = new System.Windows.Forms.Label();
+            this.qwtyhdf = new System.Windows.Forms.Label();
+            this.nnnnnnnnnnn = new System.Windows.Forms.Label();
+            this.aaaaaaaaaaaaa = new System.Windows.Forms.LinkLabel();
+            this.ttttttttt = new System.Windows.Forms.LinkLabel();
+            this.iiiiiiiiiii = new System.Windows.Forms.LinkLabel();
             this.LOGIN = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.sidsidsidsi)).BeginInit();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -157,7 +157,7 @@
             // panel1
             // 
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel1.Controls.Add(this.button1);
+            this.panel1.Controls.Add(this.botaopesquisa);
             this.panel1.Controls.Add(this.label4);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.pais);
@@ -170,17 +170,17 @@
             this.panel1.Size = new System.Drawing.Size(231, 283);
             this.panel1.TabIndex = 6;
             // 
-            // button1
+            // botaopesquisa
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(58, 225);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(96, 23);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "PESQUISA";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.botaopesquisa.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.botaopesquisa.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaopesquisa.Location = new System.Drawing.Point(58, 225);
+            this.botaopesquisa.Name = "botaopesquisa";
+            this.botaopesquisa.Size = new System.Drawing.Size(96, 23);
+            this.botaopesquisa.TabIndex = 7;
+            this.botaopesquisa.Text = "PESQUISA";
+            this.botaopesquisa.UseVisualStyleBackColor = false;
+            this.botaopesquisa.Click += new System.EventHandler(this.button1_Click);
             // 
             // label4
             // 
@@ -192,161 +192,161 @@
             this.label4.TabIndex = 6;
             this.label4.Text = "PESQUISAR BANDAS";
             // 
-            // pictureBox2
+            // sidsidsidsi
             // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(523, 0);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(277, 283);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 8;
-            this.pictureBox2.TabStop = false;
+            this.sidsidsidsi.Image = ((System.Drawing.Image)(resources.GetObject("sidsidsidsi.Image")));
+            this.sidsidsidsi.Location = new System.Drawing.Point(523, 0);
+            this.sidsidsidsi.Name = "sidsidsidsi";
+            this.sidsidsidsi.Size = new System.Drawing.Size(277, 283);
+            this.sidsidsidsi.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.sidsidsidsi.TabIndex = 8;
+            this.sidsidsidsi.TabStop = false;
             // 
             // panel2
             // 
             this.panel2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel2.Controls.Add(this.label52);
-            this.panel2.Controls.Add(this.label51);
-            this.panel2.Controls.Add(this.label50);
-            this.panel2.Controls.Add(this.label49);
-            this.panel2.Controls.Add(this.label48);
-            this.panel2.Controls.Add(this.label47);
-            this.panel2.Controls.Add(this.label46);
-            this.panel2.Controls.Add(this.label45);
-            this.panel2.Controls.Add(this.label44);
-            this.panel2.Controls.Add(this.label43);
+            this.panel2.Controls.Add(this.ui8i9i);
+            this.panel2.Controls.Add(this.ii);
+            this.panel2.Controls.Add(this.de);
+            this.panel2.Controls.Add(this.vv);
+            this.panel2.Controls.Add(this.rf);
+            this.panel2.Controls.Add(this.rr);
+            this.panel2.Controls.Add(this.fr);
+            this.panel2.Controls.Add(this.qq);
+            this.panel2.Controls.Add(this.qa);
+            this.panel2.Controls.Add(this.aa);
             this.panel2.Controls.Add(this.DDD);
-            this.panel2.Controls.Add(this.label39);
-            this.panel2.Controls.Add(this.label37);
-            this.panel2.Controls.Add(this.label36);
-            this.panel2.Controls.Add(this.label35);
-            this.panel2.Controls.Add(this.label34);
-            this.panel2.Controls.Add(this.label33);
-            this.panel2.Controls.Add(this.label32);
-            this.panel2.Controls.Add(this.label31);
-            this.panel2.Controls.Add(this.label30);
-            this.panel2.Controls.Add(this.label29);
-            this.panel2.Controls.Add(this.label28);
-            this.panel2.Controls.Add(this.label27);
-            this.panel2.Controls.Add(this.label24);
-            this.panel2.Controls.Add(this.label25);
-            this.panel2.Controls.Add(this.label26);
-            this.panel2.Controls.Add(this.label22);
-            this.panel2.Controls.Add(this.label23);
-            this.panel2.Controls.Add(this.label20);
-            this.panel2.Controls.Add(this.label21);
-            this.panel2.Controls.Add(this.label19);
-            this.panel2.Controls.Add(this.label18);
+            this.panel2.Controls.Add(this.qqqqqqqqqqqq);
+            this.panel2.Controls.Add(this.cdcdcdcd);
+            this.panel2.Controls.Add(this.rtytiyo);
+            this.panel2.Controls.Add(this.j);
+            this.panel2.Controls.Add(this.ewytut);
+            this.panel2.Controls.Add(this.asdertyuio);
+            this.panel2.Controls.Add(this.fvfvfff);
+            this.panel2.Controls.Add(this.fvf);
+            this.panel2.Controls.Add(this.srh);
+            this.panel2.Controls.Add(this.wrghio);
+            this.panel2.Controls.Add(this.tytuuoi);
+            this.panel2.Controls.Add(this.gbbgbgbg);
+            this.panel2.Controls.Add(this.qwertyu);
+            this.panel2.Controls.Add(this.fdhhhfh);
+            this.panel2.Controls.Add(this.uilo);
+            this.panel2.Controls.Add(this.fjhhjgh);
+            this.panel2.Controls.Add(this.asdfgh);
+            this.panel2.Controls.Add(this.bjj);
+            this.panel2.Controls.Add(this.qte4qwr);
+            this.panel2.Controls.Add(this.retyrytheh);
+            this.panel2.Controls.Add(this.rjtmhrhts);
             this.panel2.Controls.Add(this.label17);
-            this.panel2.Controls.Add(this.label16);
-            this.panel2.Controls.Add(this.label15);
-            this.panel2.Controls.Add(this.label14);
-            this.panel2.Controls.Add(this.label13);
-            this.panel2.Controls.Add(this.label12);
-            this.panel2.Controls.Add(this.label11);
+            this.panel2.Controls.Add(this.asdfg);
+            this.panel2.Controls.Add(this.zxcv);
+            this.panel2.Controls.Add(this.qwertyuj);
+            this.panel2.Controls.Add(this.qwew2e);
+            this.panel2.Controls.Add(this.wreree);
+            this.panel2.Controls.Add(this.wqr);
             this.panel2.Controls.Add(this.label10);
-            this.panel2.Controls.Add(this.label9);
-            this.panel2.Controls.Add(this.label8);
-            this.panel2.Controls.Add(this.label7);
-            this.panel2.Controls.Add(this.label6);
-            this.panel2.Controls.Add(this.label5);
+            this.panel2.Controls.Add(this.ewg);
+            this.panel2.Controls.Add(this.lawgwg);
+            this.panel2.Controls.Add(this.hujhu6ub);
+            this.panel2.Controls.Add(this.lololol);
+            this.panel2.Controls.Add(this.plplpl);
             this.panel2.Location = new System.Drawing.Point(0, 280);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(800, 168);
             this.panel2.TabIndex = 9;
             // 
-            // label52
+            // ui8i9i
             // 
-            this.label52.AutoSize = true;
-            this.label52.Location = new System.Drawing.Point(13, 120);
-            this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(52, 13);
-            this.label52.TabIndex = 45;
-            this.label52.Text = "9 - Krätze";
+            this.ui8i9i.AutoSize = true;
+            this.ui8i9i.Location = new System.Drawing.Point(13, 120);
+            this.ui8i9i.Name = "ui8i9i";
+            this.ui8i9i.Size = new System.Drawing.Size(52, 13);
+            this.ui8i9i.TabIndex = 45;
+            this.ui8i9i.Text = "9 - Krätze";
             // 
-            // label51
+            // ii
             // 
-            this.label51.AutoSize = true;
-            this.label51.Location = new System.Drawing.Point(13, 133);
-            this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(126, 13);
-            this.label51.TabIndex = 44;
-            this.label51.Text = "10 - Nothing Else Matters";
+            this.ii.AutoSize = true;
+            this.ii.Location = new System.Drawing.Point(13, 133);
+            this.ii.Name = "ii";
+            this.ii.Size = new System.Drawing.Size(126, 13);
+            this.ii.TabIndex = 44;
+            this.ii.Text = "10 - Nothing Else Matters";
             // 
-            // label50
+            // de
             // 
-            this.label50.AutoSize = true;
-            this.label50.Location = new System.Drawing.Point(13, 55);
-            this.label50.Name = "label50";
-            this.label50.Size = new System.Drawing.Size(73, 13);
-            this.label50.TabIndex = 43;
-            this.label50.Text = "4 - Dunkelheit";
+            this.de.AutoSize = true;
+            this.de.Location = new System.Drawing.Point(13, 55);
+            this.de.Name = "de";
+            this.de.Size = new System.Drawing.Size(73, 13);
+            this.de.TabIndex = 43;
+            this.de.Text = "4 - Dunkelheit";
             // 
-            // label49
+            // vv
             // 
-            this.label49.AutoSize = true;
-            this.label49.Location = new System.Drawing.Point(13, 94);
-            this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(47, 13);
-            this.label49.TabIndex = 42;
-            this.label49.Text = "7 - Walk";
+            this.vv.AutoSize = true;
+            this.vv.Location = new System.Drawing.Point(13, 94);
+            this.vv.Name = "vv";
+            this.vv.Size = new System.Drawing.Size(47, 13);
+            this.vv.TabIndex = 42;
+            this.vv.Text = "7 - Walk";
             // 
-            // label48
+            // rf
             // 
-            this.label48.AutoSize = true;
-            this.label48.Location = new System.Drawing.Point(13, 107);
-            this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(87, 13);
-            this.label48.TabIndex = 41;
-            this.label48.Text = "8 - Quintessence";
+            this.rf.AutoSize = true;
+            this.rf.Location = new System.Drawing.Point(13, 107);
+            this.rf.Name = "rf";
+            this.rf.Size = new System.Drawing.Size(87, 13);
+            this.rf.TabIndex = 41;
+            this.rf.Text = "8 - Quintessence";
             // 
-            // label47
+            // rr
             // 
-            this.label47.AutoSize = true;
-            this.label47.Location = new System.Drawing.Point(13, 81);
-            this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(83, 13);
-            this.label47.TabIndex = 40;
-            this.label47.Text = "6 - Lost Wisdom";
+            this.rr.AutoSize = true;
+            this.rr.Location = new System.Drawing.Point(13, 81);
+            this.rr.Name = "rr";
+            this.rr.Size = new System.Drawing.Size(83, 13);
+            this.rr.TabIndex = 40;
+            this.rr.Text = "6 - Lost Wisdom";
             // 
-            // label46
+            // fr
             // 
-            this.label46.AutoSize = true;
-            this.label46.Location = new System.Drawing.Point(13, 68);
-            this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(116, 13);
-            this.label46.TabIndex = 39;
-            this.label46.Text = "5 - Roots Bloody Roots";
+            this.fr.AutoSize = true;
+            this.fr.Location = new System.Drawing.Point(13, 68);
+            this.fr.Name = "fr";
+            this.fr.Size = new System.Drawing.Size(116, 13);
+            this.fr.TabIndex = 39;
+            this.fr.Text = "5 - Roots Bloody Roots";
             // 
-            // label45
+            // qq
             // 
-            this.label45.AutoSize = true;
-            this.label45.Location = new System.Drawing.Point(13, 42);
-            this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(123, 13);
-            this.label45.TabIndex = 38;
-            this.label45.Text = "3 - Transilvanian Hunger";
+            this.qq.AutoSize = true;
+            this.qq.Location = new System.Drawing.Point(13, 42);
+            this.qq.Name = "qq";
+            this.qq.Size = new System.Drawing.Size(123, 13);
+            this.qq.TabIndex = 38;
+            this.qq.Text = "3 - Transilvanian Hunger";
             // 
-            // label44
+            // qa
             // 
-            this.label44.AutoSize = true;
-            this.label44.Location = new System.Drawing.Point(13, 29);
-            this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(180, 13);
-            this.label44.TabIndex = 37;
-            this.label44.Text = "2 - Holy Wars...The Punishment Due";
+            this.qa.AutoSize = true;
+            this.qa.Location = new System.Drawing.Point(13, 29);
+            this.qa.Name = "qa";
+            this.qa.Size = new System.Drawing.Size(180, 13);
+            this.qa.TabIndex = 37;
+            this.qa.Text = "2 - Holy Wars...The Punishment Due";
             // 
-            // label43
+            // aa
             // 
-            this.label43.AutoSize = true;
-            this.label43.Location = new System.Drawing.Point(13, 16);
-            this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(110, 13);
-            this.label43.TabIndex = 36;
-            this.label43.Text = "1 - Master Of Puppets";
-            this.label43.Click += new System.EventHandler(this.label43_Click);
+            this.aa.AutoSize = true;
+            this.aa.Location = new System.Drawing.Point(13, 16);
+            this.aa.Name = "aa";
+            this.aa.Size = new System.Drawing.Size(110, 13);
+            this.aa.TabIndex = 36;
+            this.aa.Text = "1 - Master Of Puppets";
+            this.aa.Click += new System.EventHandler(this.label43_Click);
             // 
             // DDD
             // 
@@ -358,217 +358,217 @@
             this.DDD.Text = "MÚSICAS MAIS ACESSADAS:";
             this.DDD.Click += new System.EventHandler(this.label3_Click_1);
             // 
-            // label39
+            // qqqqqqqqqqqq
             // 
-            this.label39.AutoSize = true;
-            this.label39.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label39.Location = new System.Drawing.Point(598, 134);
-            this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(142, 13);
-            this.label39.TabIndex = 34;
-            this.label39.Text = "10 - Reign in Blood (1986)";
+            this.qqqqqqqqqqqq.AutoSize = true;
+            this.qqqqqqqqqqqq.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.qqqqqqqqqqqq.Location = new System.Drawing.Point(598, 134);
+            this.qqqqqqqqqqqq.Name = "qqqqqqqqqqqq";
+            this.qqqqqqqqqqqq.Size = new System.Drawing.Size(142, 13);
+            this.qqqqqqqqqqqq.TabIndex = 34;
+            this.qqqqqqqqqqqq.Text = "10 - Reign in Blood (1986)";
             // 
-            // label37
+            // cdcdcdcd
             // 
-            this.label37.AutoSize = true;
-            this.label37.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label37.Location = new System.Drawing.Point(598, 121);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(181, 13);
-            this.label37.TabIndex = 32;
-            this.label37.Text = "9 - To Violate The Obvious (2005)";
+            this.cdcdcdcd.AutoSize = true;
+            this.cdcdcdcd.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cdcdcdcd.Location = new System.Drawing.Point(598, 121);
+            this.cdcdcdcd.Name = "cdcdcdcd";
+            this.cdcdcdcd.Size = new System.Drawing.Size(181, 13);
+            this.cdcdcdcd.TabIndex = 32;
+            this.cdcdcdcd.Text = "9 - To Violate The Obvious (2005)";
             // 
-            // label36
+            // rtytiyo
             // 
-            this.label36.AutoSize = true;
-            this.label36.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label36.Location = new System.Drawing.Point(598, 108);
-            this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(109, 13);
-            this.label36.TabIndex = 31;
-            this.label36.Text = "8 - Filosofem (1996)";
+            this.rtytiyo.AutoSize = true;
+            this.rtytiyo.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rtytiyo.Location = new System.Drawing.Point(598, 108);
+            this.rtytiyo.Name = "rtytiyo";
+            this.rtytiyo.Size = new System.Drawing.Size(109, 13);
+            this.rtytiyo.TabIndex = 31;
+            this.rtytiyo.Text = "8 - Filosofem (1996)";
             // 
-            // label35
+            // j
             // 
-            this.label35.AutoSize = true;
-            this.label35.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label35.Location = new System.Drawing.Point(598, 95);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(166, 13);
-            this.label35.TabIndex = 30;
-            this.label35.Text = "7 - Transilvanian Hunger (1994)";
+            this.j.AutoSize = true;
+            this.j.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.j.Location = new System.Drawing.Point(598, 95);
+            this.j.Name = "j";
+            this.j.Size = new System.Drawing.Size(166, 13);
+            this.j.TabIndex = 30;
+            this.j.Text = "7 - Transilvanian Hunger (1994)";
             // 
-            // label34
+            // ewytut
             // 
-            this.label34.AutoSize = true;
-            this.label34.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label34.Location = new System.Drawing.Point(598, 82);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(168, 13);
-            this.label34.TabIndex = 29;
-            this.label34.Text = "6 - Number of The Beast (1982)";
+            this.ewytut.AutoSize = true;
+            this.ewytut.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ewytut.Location = new System.Drawing.Point(598, 82);
+            this.ewytut.Name = "ewytut";
+            this.ewytut.Size = new System.Drawing.Size(168, 13);
+            this.ewytut.TabIndex = 29;
+            this.ewytut.Text = "6 - Number of The Beast (1982)";
             // 
-            // label33
+            // asdertyuio
             // 
-            this.label33.AutoSize = true;
-            this.label33.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label33.Location = new System.Drawing.Point(598, 69);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(106, 13);
-            this.label33.TabIndex = 28;
-            this.label33.Text = "5 - Painkiller (1990)";
+            this.asdertyuio.AutoSize = true;
+            this.asdertyuio.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.asdertyuio.Location = new System.Drawing.Point(598, 69);
+            this.asdertyuio.Name = "asdertyuio";
+            this.asdertyuio.Size = new System.Drawing.Size(106, 13);
+            this.asdertyuio.TabIndex = 28;
+            this.asdertyuio.Text = "5 - Painkiller (1990)";
             // 
-            // label32
+            // fvfvfff
             // 
-            this.label32.AutoSize = true;
-            this.label32.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label32.Location = new System.Drawing.Point(598, 56);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(105, 13);
-            this.label32.TabIndex = 27;
-            this.label32.Text = "4 - Paranoid (1970)";
+            this.fvfvfff.AutoSize = true;
+            this.fvfvfff.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fvfvfff.Location = new System.Drawing.Point(598, 56);
+            this.fvfvfff.Name = "fvfvfff";
+            this.fvfvfff.Size = new System.Drawing.Size(105, 13);
+            this.fvfvfff.TabIndex = 27;
+            this.fvfvfff.Text = "4 - Paranoid (1970)";
             // 
-            // label31
+            // fvf
             // 
-            this.label31.AutoSize = true;
-            this.label31.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label31.Location = new System.Drawing.Point(598, 43);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(128, 13);
-            this.label31.TabIndex = 26;
-            this.label31.Text = "3 - Rust in Peace (1990)";
+            this.fvf.AutoSize = true;
+            this.fvf.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fvf.Location = new System.Drawing.Point(598, 43);
+            this.fvf.Name = "fvf";
+            this.fvf.Size = new System.Drawing.Size(128, 13);
+            this.fvf.TabIndex = 26;
+            this.fvf.Text = "3 - Rust in Peace (1990)";
             // 
-            // label30
+            // srh
             // 
-            this.label30.AutoSize = true;
-            this.label30.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label30.Location = new System.Drawing.Point(598, 30);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(179, 13);
-            this.label30.TabIndex = 25;
-            this.label30.Text = "2 - Metallica (Black Album) (1991)";
+            this.srh.AutoSize = true;
+            this.srh.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.srh.Location = new System.Drawing.Point(598, 30);
+            this.srh.Name = "srh";
+            this.srh.Size = new System.Drawing.Size(179, 13);
+            this.srh.TabIndex = 25;
+            this.srh.Text = "2 - Metallica (Black Album) (1991)";
             // 
-            // label29
+            // wrghio
             // 
-            this.label29.AutoSize = true;
-            this.label29.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label29.Location = new System.Drawing.Point(598, 17);
-            this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(156, 13);
-            this.label29.TabIndex = 24;
-            this.label29.Text = "1 - Master Of Puppets (1987)";
-            this.label29.Click += new System.EventHandler(this.label29_Click);
+            this.wrghio.AutoSize = true;
+            this.wrghio.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wrghio.Location = new System.Drawing.Point(598, 17);
+            this.wrghio.Name = "wrghio";
+            this.wrghio.Size = new System.Drawing.Size(156, 13);
+            this.wrghio.TabIndex = 24;
+            this.wrghio.Text = "1 - Master Of Puppets (1987)";
+            this.wrghio.Click += new System.EventHandler(this.label29_Click);
             // 
-            // label28
+            // tytuuoi
             // 
-            this.label28.AutoSize = true;
-            this.label28.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label28.Location = new System.Drawing.Point(598, 4);
-            this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(149, 13);
-            this.label28.TabIndex = 23;
-            this.label28.Text = "ÁLBUNS MAIS ACESSADOS: ";
+            this.tytuuoi.AutoSize = true;
+            this.tytuuoi.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tytuuoi.Location = new System.Drawing.Point(598, 4);
+            this.tytuuoi.Name = "tytuuoi";
+            this.tytuuoi.Size = new System.Drawing.Size(149, 13);
+            this.tytuuoi.TabIndex = 23;
+            this.tytuuoi.Text = "ÁLBUNS MAIS ACESSADOS: ";
             // 
-            // label27
+            // gbbgbgbg
             // 
-            this.label27.AutoSize = true;
-            this.label27.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label27.Location = new System.Drawing.Point(392, 134);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(95, 13);
-            this.label27.TabIndex = 22;
-            this.label27.Text = "10 - Death Metal";
+            this.gbbgbgbg.AutoSize = true;
+            this.gbbgbgbg.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gbbgbgbg.Location = new System.Drawing.Point(392, 134);
+            this.gbbgbgbg.Name = "gbbgbgbg";
+            this.gbbgbgbg.Size = new System.Drawing.Size(95, 13);
+            this.gbbgbgbg.TabIndex = 22;
+            this.gbbgbgbg.Text = "10 - Death Metal";
             // 
-            // label24
+            // qwertyu
             // 
-            this.label24.AutoSize = true;
-            this.label24.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label24.Location = new System.Drawing.Point(392, 121);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(91, 13);
-            this.label24.TabIndex = 21;
-            this.label24.Text = "9 - Speed Metal";
+            this.qwertyu.AutoSize = true;
+            this.qwertyu.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.qwertyu.Location = new System.Drawing.Point(392, 121);
+            this.qwertyu.Name = "qwertyu";
+            this.qwertyu.Size = new System.Drawing.Size(91, 13);
+            this.qwertyu.TabIndex = 21;
+            this.qwertyu.Text = "9 - Speed Metal";
             // 
-            // label25
+            // fdhhhfh
             // 
-            this.label25.AutoSize = true;
-            this.label25.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label25.Location = new System.Drawing.Point(392, 108);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(56, 13);
-            this.label25.TabIndex = 20;
-            this.label25.Text = "8 - DSBM";
+            this.fdhhhfh.AutoSize = true;
+            this.fdhhhfh.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fdhhhfh.Location = new System.Drawing.Point(392, 108);
+            this.fdhhhfh.Name = "fdhhhfh";
+            this.fdhhhfh.Size = new System.Drawing.Size(56, 13);
+            this.fdhhhfh.TabIndex = 20;
+            this.fdhhhfh.Text = "8 - DSBM";
             // 
-            // label26
+            // uilo
             // 
-            this.label26.AutoSize = true;
-            this.label26.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label26.Location = new System.Drawing.Point(392, 95);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(117, 13);
-            this.label26.TabIndex = 19;
-            this.label26.Text = "7 - Progressive Metal";
+            this.uilo.AutoSize = true;
+            this.uilo.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.uilo.Location = new System.Drawing.Point(392, 95);
+            this.uilo.Name = "uilo";
+            this.uilo.Size = new System.Drawing.Size(117, 13);
+            this.uilo.TabIndex = 19;
+            this.uilo.Text = "7 - Progressive Metal";
             // 
-            // label22
+            // fjhhjgh
             // 
-            this.label22.AutoSize = true;
-            this.label22.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(392, 82);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(53, 13);
-            this.label22.TabIndex = 18;
-            this.label22.Text = "6 - Djent";
+            this.fjhhjgh.AutoSize = true;
+            this.fjhhjgh.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fjhhjgh.Location = new System.Drawing.Point(392, 82);
+            this.fjhhjgh.Name = "fjhhjgh";
+            this.fjhhjgh.Size = new System.Drawing.Size(53, 13);
+            this.fjhhjgh.TabIndex = 18;
+            this.fjhhjgh.Text = "6 - Djent";
             // 
-            // label23
+            // asdfgh
             // 
-            this.label23.AutoSize = true;
-            this.label23.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label23.Location = new System.Drawing.Point(392, 69);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(90, 13);
-            this.label23.TabIndex = 17;
-            this.label23.Text = "5 - Power Metal";
+            this.asdfgh.AutoSize = true;
+            this.asdfgh.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.asdfgh.Location = new System.Drawing.Point(392, 69);
+            this.asdfgh.Name = "asdfgh";
+            this.asdfgh.Size = new System.Drawing.Size(90, 13);
+            this.asdfgh.TabIndex = 17;
+            this.asdfgh.Text = "5 - Power Metal";
             // 
-            // label20
+            // bjj
             // 
-            this.label20.AutoSize = true;
-            this.label20.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label20.Location = new System.Drawing.Point(392, 56);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(85, 13);
-            this.label20.TabIndex = 16;
-            this.label20.Text = "4 - Black Metal";
-            this.label20.Click += new System.EventHandler(this.label20_Click);
+            this.bjj.AutoSize = true;
+            this.bjj.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bjj.Location = new System.Drawing.Point(392, 56);
+            this.bjj.Name = "bjj";
+            this.bjj.Size = new System.Drawing.Size(85, 13);
+            this.bjj.TabIndex = 16;
+            this.bjj.Text = "4 - Black Metal";
+            this.bjj.Click += new System.EventHandler(this.label20_Click);
             // 
-            // label21
+            // qte4qwr
             // 
-            this.label21.AutoSize = true;
-            this.label21.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label21.Location = new System.Drawing.Point(392, 43);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(91, 13);
-            this.label21.TabIndex = 15;
-            this.label21.Text = "3 - Doom Metal";
+            this.qte4qwr.AutoSize = true;
+            this.qte4qwr.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.qte4qwr.Location = new System.Drawing.Point(392, 43);
+            this.qte4qwr.Name = "qte4qwr";
+            this.qte4qwr.Size = new System.Drawing.Size(91, 13);
+            this.qte4qwr.TabIndex = 15;
+            this.qte4qwr.Text = "3 - Doom Metal";
             // 
-            // label19
+            // retyrytheh
             // 
-            this.label19.AutoSize = true;
-            this.label19.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label19.Location = new System.Drawing.Point(392, 30);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(89, 13);
-            this.label19.TabIndex = 14;
-            this.label19.Text = "2 - Heavy Metal";
+            this.retyrytheh.AutoSize = true;
+            this.retyrytheh.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.retyrytheh.Location = new System.Drawing.Point(392, 30);
+            this.retyrytheh.Name = "retyrytheh";
+            this.retyrytheh.Size = new System.Drawing.Size(89, 13);
+            this.retyrytheh.TabIndex = 14;
+            this.retyrytheh.Text = "2 - Heavy Metal";
             // 
-            // label18
+            // rjtmhrhts
             // 
-            this.label18.AutoSize = true;
-            this.label18.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label18.Location = new System.Drawing.Point(392, 17);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(92, 13);
-            this.label18.TabIndex = 13;
-            this.label18.Text = "1 - Thrash Metal";
+            this.rjtmhrhts.AutoSize = true;
+            this.rjtmhrhts.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rjtmhrhts.Location = new System.Drawing.Point(392, 17);
+            this.rjtmhrhts.Name = "rjtmhrhts";
+            this.rjtmhrhts.Size = new System.Drawing.Size(92, 13);
+            this.rjtmhrhts.TabIndex = 13;
+            this.rjtmhrhts.Text = "1 - Thrash Metal";
             // 
             // label17
             // 
@@ -579,65 +579,65 @@
             this.label17.Size = new System.Drawing.Size(0, 13);
             this.label17.TabIndex = 12;
             // 
-            // label16
+            // asdfg
             // 
-            this.label16.AutoSize = true;
-            this.label16.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label16.Location = new System.Drawing.Point(392, 4);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(187, 13);
-            this.label16.TabIndex = 11;
-            this.label16.Text = "SUBGÊNEROS MAIS PESQUISADOS:";
+            this.asdfg.AutoSize = true;
+            this.asdfg.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.asdfg.Location = new System.Drawing.Point(392, 4);
+            this.asdfg.Name = "asdfg";
+            this.asdfg.Size = new System.Drawing.Size(187, 13);
+            this.asdfg.TabIndex = 11;
+            this.asdfg.Text = "SUBGÊNEROS MAIS PESQUISADOS:";
             // 
-            // label15
+            // zxcv
             // 
-            this.label15.AutoSize = true;
-            this.label15.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(232, 134);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(94, 13);
-            this.label15.TabIndex = 10;
-            this.label15.Text = "10 - Iron Maiden";
+            this.zxcv.AutoSize = true;
+            this.zxcv.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.zxcv.Location = new System.Drawing.Point(232, 134);
+            this.zxcv.Name = "zxcv";
+            this.zxcv.Size = new System.Drawing.Size(94, 13);
+            this.zxcv.TabIndex = 10;
+            this.zxcv.Text = "10 - Iron Maiden";
             // 
-            // label14
+            // qwertyuj
             // 
-            this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(232, 121);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(73, 13);
-            this.label14.TabIndex = 9;
-            this.label14.Text = "9 - Leviathan";
+            this.qwertyuj.AutoSize = true;
+            this.qwertyuj.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.qwertyuj.Location = new System.Drawing.Point(232, 121);
+            this.qwertyuj.Name = "qwertyuj";
+            this.qwertyuj.Size = new System.Drawing.Size(73, 13);
+            this.qwertyuj.TabIndex = 9;
+            this.qwertyuj.Text = "9 - Leviathan";
             // 
-            // label13
+            // qwew2e
             // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(232, 108);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(83, 13);
-            this.label13.TabIndex = 8;
-            this.label13.Text = "8 - Darkthrone";
+            this.qwew2e.AutoSize = true;
+            this.qwew2e.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.qwew2e.Location = new System.Drawing.Point(232, 108);
+            this.qwew2e.Name = "qwew2e";
+            this.qwew2e.Size = new System.Drawing.Size(83, 13);
+            this.qwew2e.TabIndex = 8;
+            this.qwew2e.Text = "8 - Darkthrone";
             // 
-            // label12
+            // wreree
             // 
-            this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(232, 95);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(90, 13);
-            this.label12.TabIndex = 7;
-            this.label12.Text = "7 - Grausamkeit";
+            this.wreree.AutoSize = true;
+            this.wreree.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wreree.Location = new System.Drawing.Point(232, 95);
+            this.wreree.Name = "wreree";
+            this.wreree.Size = new System.Drawing.Size(90, 13);
+            this.wreree.TabIndex = 7;
+            this.wreree.Text = "7 - Grausamkeit";
             // 
-            // label11
+            // wqr
             // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(232, 82);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(69, 13);
-            this.label11.TabIndex = 6;
-            this.label11.Text = "6 - Mayhem";
+            this.wqr.AutoSize = true;
+            this.wqr.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wqr.Location = new System.Drawing.Point(232, 82);
+            this.wqr.Name = "wqr";
+            this.wqr.Size = new System.Drawing.Size(69, 13);
+            this.wqr.TabIndex = 6;
+            this.wqr.Text = "6 - Mayhem";
             // 
             // label10
             // 
@@ -649,135 +649,135 @@
             this.label10.TabIndex = 5;
             this.label10.Text = "5 - Black Sabbath";
             // 
-            // label9
+            // ewg
             // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(232, 56);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(78, 13);
-            this.label9.TabIndex = 4;
-            this.label9.Text = "4 - Megadeth";
+            this.ewg.AutoSize = true;
+            this.ewg.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ewg.Location = new System.Drawing.Point(232, 56);
+            this.ewg.Name = "ewg";
+            this.ewg.Size = new System.Drawing.Size(78, 13);
+            this.ewg.TabIndex = 4;
+            this.ewg.Text = "4 - Megadeth";
             // 
-            // label8
+            // lawgwg
             // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(232, 43);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(56, 13);
-            this.label8.TabIndex = 3;
-            this.label8.Text = "3 - Slayer";
+            this.lawgwg.AutoSize = true;
+            this.lawgwg.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lawgwg.Location = new System.Drawing.Point(232, 43);
+            this.lawgwg.Name = "lawgwg";
+            this.lawgwg.Size = new System.Drawing.Size(56, 13);
+            this.lawgwg.TabIndex = 3;
+            this.lawgwg.Text = "3 - Slayer";
             // 
-            // label7
+            // hujhu6ub
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(232, 30);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(74, 13);
-            this.label7.TabIndex = 2;
-            this.label7.Text = "2 - Sepultura";
+            this.hujhu6ub.AutoSize = true;
+            this.hujhu6ub.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.hujhu6ub.Location = new System.Drawing.Point(232, 30);
+            this.hujhu6ub.Name = "hujhu6ub";
+            this.hujhu6ub.Size = new System.Drawing.Size(74, 13);
+            this.hujhu6ub.TabIndex = 2;
+            this.hujhu6ub.Text = "2 - Sepultura";
             // 
-            // label6
+            // lololol
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(232, 17);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(72, 13);
-            this.label6.TabIndex = 1;
-            this.label6.Text = "1 - Metallica";
+            this.lololol.AutoSize = true;
+            this.lololol.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lololol.Location = new System.Drawing.Point(232, 17);
+            this.lololol.Name = "lololol";
+            this.lololol.Size = new System.Drawing.Size(72, 13);
+            this.lololol.TabIndex = 1;
+            this.lololol.Text = "1 - Metallica";
             // 
-            // label5
+            // plplpl
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(229, 4);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(157, 13);
-            this.label5.TabIndex = 0;
-            this.label5.Text = "BANDAS MAIS PESQUISADAS:";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
+            this.plplpl.AutoSize = true;
+            this.plplpl.Font = new System.Drawing.Font("Malgun Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.plplpl.Location = new System.Drawing.Point(229, 4);
+            this.plplpl.Name = "plplpl";
+            this.plplpl.Size = new System.Drawing.Size(157, 13);
+            this.plplpl.TabIndex = 0;
+            this.plplpl.Text = "BANDAS MAIS PESQUISADAS:";
+            this.plplpl.Click += new System.EventHandler(this.label5_Click);
             // 
-            // label42
+            // hfghhfh
             // 
-            this.label42.AutoSize = true;
-            this.label42.Font = new System.Drawing.Font("Malgun Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label42.Location = new System.Drawing.Point(231, 190);
-            this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(230, 68);
-            this.label42.TabIndex = 38;
-            this.label42.Text = "° Guitarrista brasileiro Kiko Loureiro \r\n   é demitido da banda Megadeth,\r\n   líd" +
+            this.hfghhfh.AutoSize = true;
+            this.hfghhfh.Font = new System.Drawing.Font("Malgun Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.hfghhfh.Location = new System.Drawing.Point(231, 190);
+            this.hfghhfh.Name = "hfghhfh";
+            this.hfghhfh.Size = new System.Drawing.Size(230, 68);
+            this.hfghhfh.TabIndex = 38;
+            this.hfghhfh.Text = "° Guitarrista brasileiro Kiko Loureiro \r\n   é demitido da banda Megadeth,\r\n   líd" +
     "er Dave Mustaine não diz\r\n   o motivo.\r\n";
-            this.label42.Click += new System.EventHandler(this.label42_Click);
+            this.hfghhfh.Click += new System.EventHandler(this.label42_Click);
             // 
-            // label41
+            // rrrrrrrrrrrr
             // 
-            this.label41.AutoSize = true;
-            this.label41.Font = new System.Drawing.Font("Malgun Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label41.Location = new System.Drawing.Point(231, 126);
-            this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(276, 51);
-            this.label41.TabIndex = 37;
-            this.label41.Text = "° Membro Solo do projeto Leviathan, Wrest,\r\n   nome artístico de Jeff Whitehead. " +
+            this.rrrrrrrrrrrr.AutoSize = true;
+            this.rrrrrrrrrrrr.Font = new System.Drawing.Font("Malgun Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rrrrrrrrrrrr.Location = new System.Drawing.Point(231, 126);
+            this.rrrrrrrrrrrr.Name = "rrrrrrrrrrrr";
+            this.rrrrrrrrrrrr.Size = new System.Drawing.Size(276, 51);
+            this.rrrrrrrrrrrr.TabIndex = 37;
+            this.rrrrrrrrrrrr.Text = "° Membro Solo do projeto Leviathan, Wrest,\r\n   nome artístico de Jeff Whitehead. " +
     "É preso\r\n   suspeito de incêndio criminoso.";
             // 
-            // label40
+            // qwtyhdf
             // 
-            this.label40.AutoSize = true;
-            this.label40.Font = new System.Drawing.Font("Malgun Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label40.Location = new System.Drawing.Point(231, 75);
-            this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(286, 51);
-            this.label40.TabIndex = 36;
-            this.label40.Text = "° Brasileiro Eloy Casagrande se junta á banda\r\n   Slipknot como baterista.\r\n\r\n";
-            this.label40.Click += new System.EventHandler(this.label40_Click);
+            this.qwtyhdf.AutoSize = true;
+            this.qwtyhdf.Font = new System.Drawing.Font("Malgun Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.qwtyhdf.Location = new System.Drawing.Point(231, 75);
+            this.qwtyhdf.Name = "qwtyhdf";
+            this.qwtyhdf.Size = new System.Drawing.Size(286, 51);
+            this.qwtyhdf.TabIndex = 36;
+            this.qwtyhdf.Text = "° Brasileiro Eloy Casagrande se junta á banda\r\n   Slipknot como baterista.\r\n\r\n";
+            this.qwtyhdf.Click += new System.EventHandler(this.label40_Click);
             // 
-            // label38
+            // nnnnnnnnnnn
             // 
-            this.label38.AutoSize = true;
-            this.label38.Font = new System.Drawing.Font("Malgun Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label38.Location = new System.Drawing.Point(245, 17);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(272, 37);
-            this.label38.TabIndex = 35;
-            this.label38.Text = "ULTIMAS NOTÍCIAS: ";
-            this.label38.Click += new System.EventHandler(this.label38_Click);
+            this.nnnnnnnnnnn.AutoSize = true;
+            this.nnnnnnnnnnn.Font = new System.Drawing.Font("Malgun Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.nnnnnnnnnnn.Location = new System.Drawing.Point(245, 17);
+            this.nnnnnnnnnnn.Name = "nnnnnnnnnnn";
+            this.nnnnnnnnnnn.Size = new System.Drawing.Size(272, 37);
+            this.nnnnnnnnnnn.TabIndex = 35;
+            this.nnnnnnnnnnn.Text = "ULTIMAS NOTÍCIAS: ";
+            this.nnnnnnnnnnn.Click += new System.EventHandler(this.label38_Click);
             // 
-            // linkLabel1
+            // aaaaaaaaaaaaa
             // 
-            this.linkLabel1.AutoSize = true;
-            this.linkLabel1.LinkColor = System.Drawing.Color.Transparent;
-            this.linkLabel1.Location = new System.Drawing.Point(317, 244);
-            this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(67, 13);
-            this.linkLabel1.TabIndex = 39;
-            this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "SAIBA MAIS";
-            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
+            this.aaaaaaaaaaaaa.AutoSize = true;
+            this.aaaaaaaaaaaaa.LinkColor = System.Drawing.Color.Transparent;
+            this.aaaaaaaaaaaaa.Location = new System.Drawing.Point(317, 244);
+            this.aaaaaaaaaaaaa.Name = "aaaaaaaaaaaaa";
+            this.aaaaaaaaaaaaa.Size = new System.Drawing.Size(67, 13);
+            this.aaaaaaaaaaaaa.TabIndex = 39;
+            this.aaaaaaaaaaaaa.TabStop = true;
+            this.aaaaaaaaaaaaa.Text = "SAIBA MAIS";
+            this.aaaaaaaaaaaaa.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
-            // linkLabel2
+            // ttttttttt
             // 
-            this.linkLabel2.AutoSize = true;
-            this.linkLabel2.LinkColor = System.Drawing.Color.White;
-            this.linkLabel2.Location = new System.Drawing.Point(450, 164);
-            this.linkLabel2.Name = "linkLabel2";
-            this.linkLabel2.Size = new System.Drawing.Size(67, 13);
-            this.linkLabel2.TabIndex = 40;
-            this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "SAIBA MAIS";
+            this.ttttttttt.AutoSize = true;
+            this.ttttttttt.LinkColor = System.Drawing.Color.White;
+            this.ttttttttt.Location = new System.Drawing.Point(450, 164);
+            this.ttttttttt.Name = "ttttttttt";
+            this.ttttttttt.Size = new System.Drawing.Size(67, 13);
+            this.ttttttttt.TabIndex = 40;
+            this.ttttttttt.TabStop = true;
+            this.ttttttttt.Text = "SAIBA MAIS";
             // 
-            // linkLabel3
+            // iiiiiiiiiii
             // 
-            this.linkLabel3.AutoSize = true;
-            this.linkLabel3.LinkColor = System.Drawing.Color.White;
-            this.linkLabel3.Location = new System.Drawing.Point(410, 94);
-            this.linkLabel3.Name = "linkLabel3";
-            this.linkLabel3.Size = new System.Drawing.Size(67, 13);
-            this.linkLabel3.TabIndex = 41;
-            this.linkLabel3.TabStop = true;
-            this.linkLabel3.Text = "SAIBA MAIS";
+            this.iiiiiiiiiii.AutoSize = true;
+            this.iiiiiiiiiii.LinkColor = System.Drawing.Color.White;
+            this.iiiiiiiiiii.Location = new System.Drawing.Point(412, 94);
+            this.iiiiiiiiiii.Name = "iiiiiiiiiii";
+            this.iiiiiiiiiii.Size = new System.Drawing.Size(67, 13);
+            this.iiiiiiiiiii.TabIndex = 41;
+            this.iiiiiiiiiii.TabStop = true;
+            this.iiiiiiiiiii.Text = "SAIBA MAIS";
             // 
             // LOGIN
             // 
@@ -798,15 +798,15 @@
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.LOGIN);
-            this.Controls.Add(this.linkLabel3);
-            this.Controls.Add(this.linkLabel2);
-            this.Controls.Add(this.linkLabel1);
-            this.Controls.Add(this.label42);
+            this.Controls.Add(this.iiiiiiiiiii);
+            this.Controls.Add(this.ttttttttt);
+            this.Controls.Add(this.aaaaaaaaaaaaa);
+            this.Controls.Add(this.hfghhfh);
             this.Controls.Add(this.panel2);
-            this.Controls.Add(this.label41);
-            this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.label40);
-            this.Controls.Add(this.label38);
+            this.Controls.Add(this.rrrrrrrrrrrr);
+            this.Controls.Add(this.sidsidsidsi);
+            this.Controls.Add(this.qwtyhdf);
+            this.Controls.Add(this.nnnnnnnnnnn);
             this.Controls.Add(this.panel1);
             this.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
@@ -814,7 +814,7 @@
             this.Text = "Form1";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.sidsidsidsi)).EndInit();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             this.ResumeLayout(false);
@@ -832,60 +832,60 @@
         private System.Windows.Forms.Label pais;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.PictureBox pictureBox2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.PictureBox sidsidsidsi;
+        private System.Windows.Forms.Button botaopesquisa;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label plplpl;
+        private System.Windows.Forms.Label lawgwg;
+        private System.Windows.Forms.Label hujhu6ub;
+        private System.Windows.Forms.Label lololol;
+        private System.Windows.Forms.Label ewg;
+        private System.Windows.Forms.Label zxcv;
+        private System.Windows.Forms.Label qwertyuj;
+        private System.Windows.Forms.Label qwew2e;
+        private System.Windows.Forms.Label wreree;
+        private System.Windows.Forms.Label wqr;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.Label label24;
-        private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.Label label23;
-        private System.Windows.Forms.Label label20;
-        private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label asdfg;
+        private System.Windows.Forms.Label qwertyu;
+        private System.Windows.Forms.Label fdhhhfh;
+        private System.Windows.Forms.Label uilo;
+        private System.Windows.Forms.Label fjhhjgh;
+        private System.Windows.Forms.Label asdfgh;
+        private System.Windows.Forms.Label bjj;
+        private System.Windows.Forms.Label qte4qwr;
+        private System.Windows.Forms.Label retyrytheh;
+        private System.Windows.Forms.Label rjtmhrhts;
         private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.Label label28;
-        private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Label label39;
-        private System.Windows.Forms.Label label37;
-        private System.Windows.Forms.Label label36;
-        private System.Windows.Forms.Label label35;
-        private System.Windows.Forms.Label label34;
-        private System.Windows.Forms.Label label33;
-        private System.Windows.Forms.Label label32;
-        private System.Windows.Forms.Label label31;
-        private System.Windows.Forms.Label label30;
-        private System.Windows.Forms.Label label29;
-        private System.Windows.Forms.Label label38;
-        private System.Windows.Forms.Label label40;
-        private System.Windows.Forms.Label label42;
-        private System.Windows.Forms.Label label41;
-        private System.Windows.Forms.LinkLabel linkLabel1;
-        private System.Windows.Forms.LinkLabel linkLabel2;
-        private System.Windows.Forms.LinkLabel linkLabel3;
-        private System.Windows.Forms.Label label52;
-        private System.Windows.Forms.Label label51;
-        private System.Windows.Forms.Label label50;
-        private System.Windows.Forms.Label label49;
-        private System.Windows.Forms.Label label48;
-        private System.Windows.Forms.Label label47;
-        private System.Windows.Forms.Label label46;
-        private System.Windows.Forms.Label label45;
-        private System.Windows.Forms.Label label44;
-        private System.Windows.Forms.Label label43;
+        private System.Windows.Forms.Label tytuuoi;
+        private System.Windows.Forms.Label gbbgbgbg;
+        private System.Windows.Forms.Label qqqqqqqqqqqq;
+        private System.Windows.Forms.Label cdcdcdcd;
+        private System.Windows.Forms.Label rtytiyo;
+        private System.Windows.Forms.Label j;
+        private System.Windows.Forms.Label ewytut;
+        private System.Windows.Forms.Label asdertyuio;
+        private System.Windows.Forms.Label fvfvfff;
+        private System.Windows.Forms.Label fvf;
+        private System.Windows.Forms.Label srh;
+        private System.Windows.Forms.Label wrghio;
+        private System.Windows.Forms.Label nnnnnnnnnnn;
+        private System.Windows.Forms.Label qwtyhdf;
+        private System.Windows.Forms.Label hfghhfh;
+        private System.Windows.Forms.Label rrrrrrrrrrrr;
+        private System.Windows.Forms.LinkLabel aaaaaaaaaaaaa;
+        private System.Windows.Forms.LinkLabel ttttttttt;
+        private System.Windows.Forms.LinkLabel iiiiiiiiiii;
+        private System.Windows.Forms.Label ui8i9i;
+        private System.Windows.Forms.Label ii;
+        private System.Windows.Forms.Label de;
+        private System.Windows.Forms.Label vv;
+        private System.Windows.Forms.Label rf;
+        private System.Windows.Forms.Label rr;
+        private System.Windows.Forms.Label fr;
+        private System.Windows.Forms.Label qq;
+        private System.Windows.Forms.Label qa;
+        private System.Windows.Forms.Label aa;
         private System.Windows.Forms.Label DDD;
         private System.Windows.Forms.Button LOGIN;
     }

@@ -58,13 +58,14 @@ namespace Arquivos_do_Metal
                 MessageBoxIcon.Information);
         }
 
-        private void voltar_Click_1(object sender, EventArgs e)
+        private void Form2_Load_1(object sender, EventArgs e)
         {
-            Form1 frmProperty = new Form1();
-            this.Visible = false;
-            frmProperty.ShowDialog();
+
         }
 
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
 
+        }
     }
 }

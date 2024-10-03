@@ -25,16 +25,18 @@ namespace Arquivos_do_Metal
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show(
-                "\nPesquisa: " + pesquisa.Text +
+                "\nNome: " + pesquisa.Text +
                 "\nSubgenero: " + subgenero.Text +
-                "\nPaís: " + pais2.Text,
-                "\nerr",
+                "\nPaís : " + pais2.Text,
+                "\nOK : ",
                 MessageBoxButtons.OK,
-                MessageBoxIcon.Information);
+                MessageBoxIcon.Information
 
-             Form3 frmProperty = new Form3();
-             this.Visible = false;
-             frmProperty.ShowDialog();
+
+                );
+               
+              
+            
 
 
         }

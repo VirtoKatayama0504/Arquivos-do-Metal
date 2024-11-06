@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Arquivos_do_Metal
+namespace Arquivos_do_Metal.View
 {
     public partial class Form2 : Form
     {
@@ -17,53 +17,7 @@ namespace Arquivos_do_Metal
             InitializeComponent();
         }
 
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-
-
-
-        private void login_Click_1(object sender, EventArgs e)
-        {
-            MessageBox.Show(
-              "\nNome de Usuário: " + user.Text +
-              "\nSenha: " + pass.Text,
-              "\nErr",
-              MessageBoxButtons.OK,
-              MessageBoxIcon.Information
-              );
-        }
-
-        private void registro_Click_1(object sender, EventArgs e)
-        {
-            MessageBox.Show(
-                "\nNome de Usuário: " + nomeusuario.Text +
-                "\nSenha: " + senha.Text +
-                "\nConfirmação de Senha: " + confirmar.Text +
-                "\nE-Mail para Contato: " + email.Text,
-                "\nErr",
-                MessageBoxButtons.OK,
-                MessageBoxIcon.Information);
-        }
-
-        private void Form2_Load_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
         }

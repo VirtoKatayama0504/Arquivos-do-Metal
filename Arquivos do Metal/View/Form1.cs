@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Arquivos_do_Metal.View;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -103,9 +104,9 @@ namespace Arquivos_do_Metal
 
         private void LOGIN_Click(object sender, EventArgs e)
         {
-            Form2 frmProperty = new Form2();
+            Form2 form2 = new Form2();
             this.Visible = false;
-            frmProperty.ShowDialog();
+            form2.ShowDialog();
         }
     }
 }

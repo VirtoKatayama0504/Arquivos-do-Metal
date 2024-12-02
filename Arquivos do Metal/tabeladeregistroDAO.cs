@@ -13,8 +13,8 @@ namespace Arquivos_do_Metal
     {
         private Connection Connect { get; set; }
         private SqlCommand Command { get; set; }
-        //Sempre o nome da classe
-        public tabeladeregistroDAO() //método construtor
+        
+        public tabeladeregistroDAO() 
         {
             Connect = new Connection();
             Command = new SqlCommand();
@@ -104,12 +104,12 @@ namespace Arquivos_do_Metal
             Command.Connection = Connect.ReturnConnection();
             Command.CommandText = "SELECT * FROM tabeladeregistro";
 
-            List<tabeladeregistro> props = new List<tabeladeregistro>(); //Instancio a list com o tamanho padrão.
+            List<tabeladeregistro> props = new List<tabeladeregistro>(); 
             try
             {
                 SqlDataReader rd = Command.ExecuteReader();
 
-                //Enquanto for possível continuar a leitura das linhas que foram retornadas na consulta, execute.
+               
                 while (rd.Read())
                 {
                     tabeladeregistro prop = new tabeladeregistro(

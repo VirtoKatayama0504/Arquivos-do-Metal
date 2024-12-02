@@ -21,5 +21,21 @@ namespace Arquivos_do_Metal.View
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(
+                "\nNome De Usuario: " + nomeusuario.Text +
+                "\nSenha: " + senha.Text +
+                "\nEmail: " + email.Text,
+                "\nOK: ",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Information
+                );
+
+
+        }
+
+       
     }
 }
